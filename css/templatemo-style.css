@@ -414,7 +414,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-third {
-    background-image: url('../img/Third Slide.jpg');
+    background: url('../img/FisrtSlide.JPG') center center no-repeat;
   }
 
   .slider .item-second .section-btn {
