@@ -120,7 +120,8 @@ http://www.templatemo.com/tm-515-eatery
     padding: 100px 0;
   }
 
-  #team, 
+  #team,
+  .menu
   #menu,
   #testimonial {
     text-align: center;
